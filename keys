@@ -48,3 +48,5 @@ export AWS_SECRET_ACCESS_KEY=9rtYl+xkeUhTBuOnnUuXRllSipaqGSq5WlL+NBwu
 
 export ARTIFACTORY_URL=http://localhost:8081/artifactory
 export ARTIFACTORY_TOKEN=AKCp5budTFpbypBqQbGJPz3pGCi28pPivfWczqjfYb9drAmd9LbRZbj6UpKFxJXA8ksWGc9fM
+
+export github_token=368ac3edf9e850d1c0ff9d6c526496f8237ddf19

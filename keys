@@ -64,4 +64,4 @@ export github_token=ghp_368ac3edf9e850d1c0ff9d6c526496f8237ddf19
     "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/green-button-project%40secrets@gitguardian.iam.gserviceaccount.com"
 }
 
-AWS_ACCESS_KEY_ID=AKIAXXHDHDSHKHKHKHD
+CRYPTO_KEY=MIICXQIBAAKBgQCpoq2EpZRNUAT47NmVbAn6L56PMjU2hFgL4P9RrnTnKwEi3rKq\n
